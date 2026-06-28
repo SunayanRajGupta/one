@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://100.59.190.159:8081/repository/Freestyle-Nexus/</url>
+		    <url>http://54.242.69.57:8081/repository/Jenkins-E2E/</url>
 		</repository>
   	</distributionManagement>
 	
